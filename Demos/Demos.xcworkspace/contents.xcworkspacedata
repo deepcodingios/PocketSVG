@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Demo-iOS/make_xcframework.sh">
+   </FileRef>
+   <FileRef
       location = "group:Demo-iOS/Demo-iOS.xcodeproj">
    </FileRef>
    <FileRef
